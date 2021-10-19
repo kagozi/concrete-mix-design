@@ -4,4 +4,4 @@ This application enables a concrete mix designer to input material data and esti
 
 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/70429029/137867589-283a7772-8425-4f88-9c3d-dd8f1ef12e9d.png
+![Screenshot (4)](https://user-images.githubusercontent.com/70429029/137867589-283a7772-8425-4f88-9c3d-dd8f1ef12e9d.png)
