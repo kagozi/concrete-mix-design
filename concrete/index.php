@@ -1,6 +1,6 @@
 <?php include_once 'header.php'; ?>
 
-<form>
+<form method="POST">
 		<div class="selecter">
 			<div class="slect">
 			 <p>Concrete Specification:</p>
